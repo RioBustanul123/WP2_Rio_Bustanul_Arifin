@@ -31,14 +31,6 @@
 					<input type="text" name="kode" id="kode">
 				</td>
 			</tr>
-			<tr>
-				<th>Kode MtK</th>
-				<th>:</th>
-				<td>
-					<input type="text" name="kode" id="kode">
-				</td>
-			</tr>
-			<tr>
 				<th>SKS</th>
 				<td>:</td>
 				<td>
